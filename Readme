@@ -1,0 +1,7 @@
+1. cd front
+2. npm i node
+3. npm start
+
+3. cd server
+4. npm i node
+5. node server.js или yarn nodemon server.js
